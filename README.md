@@ -70,8 +70,6 @@ Node.js v18+
 Python 3.10+
 
 2. Клонування репозиторію
-
-git clone https://github.com/your-user/smart_buy.git
 cd smart_buy
 
 3. Серверна частина
@@ -201,5 +199,5 @@ StackOverflow
 
 OpenAI / HuggingFace (опціонально для генерації)
 
-📷 Скріншоти (опційно)
+
 
