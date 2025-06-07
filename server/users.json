@@ -1,0 +1,72 @@
+[
+  {
+    "first_name": "Olena",
+    "last_name": "Kovalenko",
+    "dob": "1990-05-14",
+    "email": "olena.kovalenko@example.com",
+    "password": "OlenaPass123!"
+  },
+  {
+    "first_name": "Ivan",
+    "last_name": "Shevchenko",
+    "dob": "1985-11-22",
+    "email": "ivan.shevchenko@example.com",
+    "password": "IvanPass123!"
+  },
+  {
+    "first_name": "Maria",
+    "last_name": "Tkachenko",
+    "dob": "1993-03-09",
+    "email": "maria.tkachenko@example.com",
+    "password": "MariaPass123!"
+  },
+  {
+    "first_name": "Andrii",
+    "last_name": "Bondarenko",
+    "dob": "1997-07-30",
+    "email": "andrii.bondarenko@example.com",
+    "password": "AndriiPass123!"
+  },
+  {
+    "first_name": "Kateryna",
+    "last_name": "Havrylenko",
+    "dob": "1992-01-17",
+    "email": "kateryna.havrylenko@example.com",
+    "password": "KaterynaPass123!"
+  },
+  {
+    "first_name": "Dmytro",
+    "last_name": "Lysenko",
+    "dob": "1988-09-05",
+    "email": "dmytro.lysenko@example.com",
+    "password": "DmytroPass123!"
+  },
+  {
+    "first_name": "Oksana",
+    "last_name": "Melnyk",
+    "dob": "1995-12-11",
+    "email": "oksana.melnyk@example.com",
+    "password": "OksanaPass123!"
+  },
+  {
+    "first_name": "Serhii",
+    "last_name": "Kravchenko",
+    "dob": "1990-04-02",
+    "email": "serhii.kravchenko@example.com",
+    "password": "SerhiiPass123!"
+  },
+  {
+    "first_name": "Anastasiia",
+    "last_name": "Moroz",
+    "dob": "1994-06-25",
+    "email": "anastasiia.moroz@example.com",
+    "password": "AnastasiiaPass123!"
+  },
+  {
+    "first_name": "Yurii",
+    "last_name": "Polishchuk",
+    "dob": "1986-10-08",
+    "email": "yurii.polishchuk@example.com",
+    "password": "YuriiPass123!"
+  }
+]
